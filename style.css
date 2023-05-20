@@ -1,0 +1,27 @@
+p {
+    color: #ffffff;
+}
+
+body {
+    font-family: Lora;
+    font-size: 20px;
+    line-height: 1.5;
+    
+    background-color: #ef8354;
+    color: #2d3142;
+    margin: 40px auto 40px auoto;
+    width: 620px;
+}
+
+h1 {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+img {
+    width: 700px;
+}
+
+a {
+    color: #4f5d75;
+}
